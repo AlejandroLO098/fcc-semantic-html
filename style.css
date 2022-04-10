@@ -11,8 +11,7 @@ body{
 }
 
 .border{
-    border-style: 5px, solid, white;
-    background:#27510b;
-    padding: 15px;
+    border: 10px solid;
+    background-color:#295c08;
 
 }
